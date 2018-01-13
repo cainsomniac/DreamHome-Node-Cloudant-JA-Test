@@ -23,7 +23,7 @@ You have to also analyze the node js code from the git hub
 
 1. **To get started, click this button:**
 
-  [![Deploy To Bluemix](./.bluemix/create_toolchain_button.png)](https://new-console.ng.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/suddasgu/DreamHome_Node_Demo.git)
+  [![Deploy To Bluemix](./.bluemix/create_toolchain_button.png)](https://new-console.ng.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/cainsomniac/DreamHome-Node-Cloudant-JA-Test.git)
 
   Clicking it will:
   * **create 4 GitHub repositories** with the required source code for all the application components;
