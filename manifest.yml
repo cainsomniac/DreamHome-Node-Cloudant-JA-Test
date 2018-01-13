@@ -7,4 +7,4 @@ applications:
   host: DreamHome-Node-Cloudant-JA-Test
   disk_quota: 1024M
   services:
-  - Node-Cloudant-Demo-cloudantNoSQLDB
+  - Node-Cloudant-Demo-cloudantNoSQLDB2
