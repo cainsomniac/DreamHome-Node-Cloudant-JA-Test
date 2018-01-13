@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: DreamHome-Node-Cloudant-JA-Test
+  host: DreamHome-Node-Cloudant-JA-Test
+  disk_quota: 1024M
+  services:
+  - Node-Cloudant-Demo-cloudantNoSQLDB
